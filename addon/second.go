@@ -3,5 +3,5 @@ package addon
 import "fmt"
 
 func HelloAdd() {
-	fmt.Println("Hello from addon")
+	fmt.Println("Hello from addon v2.0")
 }
