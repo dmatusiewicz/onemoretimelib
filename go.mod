@@ -1,3 +1,3 @@
-module github.com/dmatusiewicz/onemoretimelib/v3
+module github.com/dmatusiewicz/onemoretimelib
 
 go 1.13
